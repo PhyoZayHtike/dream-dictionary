@@ -1,3 +1,11 @@
+
+![Screenshot 2024-01-16 214742](https://github.com/PhyoZayHtike/dream-dictionary/assets/143343820/ed4d016c-0621-4fbd-8f3c-2b5c62909ac2)
+
+![Screenshot 2024-01-16 214738](https://github.com/PhyoZayHtike/dream-dictionary/assets/143343820/c629bb06-7081-4129-9f2c-d4d8281ad974)
+
+![Screenshot 2024-01-16 214759](https://github.com/PhyoZayHtike/dream-dictionary/assets/143343820/e2baba95-fe12-4519-b6ff-d02bc57f4849)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
